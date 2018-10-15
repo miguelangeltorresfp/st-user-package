@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Glue",
+		"LiveReload",
+		"Package Control",
+		"Phpcs",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-eslint",
+		"Terminal",
+		"Theme - Spacegray",
+		"WordPress"
+	]
+}

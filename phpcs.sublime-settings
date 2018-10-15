@@ -1,0 +1,17 @@
+ {
+    // It seems python/sublime cannot always find the phpcs application
+    // If empty, then use PATH version of phpcs, else use the set value
+    "phpcs_executable_path": "C:/Users/Pc/AppData/Roaming/Composer/vendor/bin/phpcs.bat",
+
+    // Additional arguments you can specify into the application
+    //
+    // Example:
+    // {
+    //     "--standard": "PEAR",
+    //     "-n"
+    // }
+    "phpcs_additional_args": {
+        "--standard": "WebDevStudios",
+        "-n": ""
+    },
+}

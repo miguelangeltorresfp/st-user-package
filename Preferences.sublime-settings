@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"default_line_ending": "unix",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".hg",
+		"CVS"
+	],
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Phpcs",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-eslint",
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_sidebar_tree_xlarge": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_xlarge": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray Oceanic.sublime-theme"
+}
